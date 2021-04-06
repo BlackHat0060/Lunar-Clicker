@@ -1,6 +1,8 @@
 # Lunar-Clicker
 Auto clicker made in C#, Credit to NightBot for the clicker code.
 
+Zoom Clicker - https://github.com/BlackHat0060/Zoom-Clicker
+
 Discord - https://discord.gg/SaUnqaUmVA
 
 NightBot - https://www.youtube.com/channel/UC8YWkKm_O4yellV6Dx3XxVg
