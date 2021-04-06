@@ -3,9 +3,9 @@ Auto clicker made in C#, Credit to NightBot for the clicker code.
 
 NightBot - https://www.youtube.com/channel/UC8YWkKm_O4yellV6Dx3XxVg
 
-Download - 
+Download - https://github.com/BlackHat0060/Lunar-Clicker/blob/main/LunarClicker.zip
 
-Source Code - 
+Source Code - https://mega.nz/file/UhpUXRrR#7fPSutLZlgqVZ_7PnsjuLp5-xUjeiNFoCo3uN0mY50A
 (to big for github)
 
 
